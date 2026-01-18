@@ -30,6 +30,9 @@
 ## 📊 GitHub Activity
 ![Hania's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hania-Shafiq&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hania-Shafiq&layout=compact&theme=radical)
+
+
 ---
 
 ## 🔗 Let’s Connect
