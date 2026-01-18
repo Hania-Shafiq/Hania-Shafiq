@@ -1,20 +1,42 @@
-# Hi there, I'm Hania Shafiq 👋
+# Hi, I'm Hania Shafiq 👋  
 
-Welcome to my GitHub profile! I'm passionate about **software development, open-source contributions, and continuously learning new technologies.**  
+💡 I build things on the web and explore data to turn information into insights.
 
-## 🚀 About Me
-- 🌱 I’m currently learning **React.js**.  
-- 👯 I’m looking to collaborate on **open-source projects related to web development**.  
-- 💬 Ask me about **JavaScript, Python, and Web Development**.  
-- 📫 How to reach me: [Email Me](mailto:haniashafiq112233@gmail.com)  
+---
 
-## 📊 GitHub Stats  
-![Hania's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hania-Shafiq&show_icons=true&theme=radical)  
+## 👩‍💻 About Me
+- 🎓 Computer Science student at **UBIT**
+- 📊 Currently focusing on **Data Science & Business Intelligence**
+- 🌐 Background in **web development & frontend UI**
+- 🧠 Curious about **data, visualization, and applied AI**
+- 🤝 Open to collaborations on **data-driven or web-based projects**
 
-## 📌 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hania-Shafiq&layout=compact&theme=radical)  
+---
 
-## 🔗 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/hania-shafiq/)  
+## 🧰 What I Work With
+- **Languages:** Python, JavaScript, SQL, Java, C++  
+- **Data & BI:** Power BI, PostgreSQL, Talend  
+- **Web:** HTML, CSS, JavaScript, React, Wordpress  
+- **Tools:** Git, GitHub, WordPress, Figma  
+---
 
-Feel free to check out my repositories and leave a star ⭐ if you find something helpful. Let's connect and grow together! 🚀
+## 🌱 Learning & Growing
+- Machine Learning fundamentals  
+- Data visualization & storytelling  
+- Writing clean, readable, and maintainable code  
+
+---
+
+## 📊 GitHub Activity
+![Hania's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hania-Shafiq&show_icons=true&theme=radical)
+
+---
+
+## 🔗 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/hania-shafiq/)  
+- 📫 [Email](mailto:haniashafiq112233@gmail.com)
+
+---
+
+⭐ If something here helps you, feel free to star a repo.  
+Still learning. Still building. 🚀
