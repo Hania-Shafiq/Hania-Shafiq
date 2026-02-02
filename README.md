@@ -28,9 +28,13 @@
 ---
 
 ## 📊 GitHub Activity
-![Hania's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hania-Shafiq&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hania-Shafiq&layout=compact&theme=radical)
+<!-- GitHub Stats -->
+![Hania's GitHub stats](https://my-github-stats.vercel.app/api?username=hania-shafiq&show_icons=true&theme=radical)
+
+<!-- Top Languages -->
+![Top Languages](https://my-github-stats.vercel.app/api/top-langs/?username=hania-shafiq&layout=compact&theme=radical)
+
 
 
 ---
