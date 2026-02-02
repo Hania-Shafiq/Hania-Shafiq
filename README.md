@@ -31,10 +31,11 @@
 ## 📊 GitHub Activity
 
 <!-- GitHub Stats -->
-![Hania's GitHub stats](https://github-readme-stats-jjj33dlgf-shafiqhania00-5723s-projects.vercel.app/api?username=hania-shafiq&show_icons=true&count_private=true&theme=radical)
+![Hania's GitHub stats](https://github-readme-stats-one-mauve-51.vercel.app/api?username=Hania-Shafiq&show_icons=true&count_private=true&theme=radical)
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats-jjj33dlgf-shafiqhania00-5723s-projects.vercel.app/api/top-langs/?username=hania-shafiq&layout=compact&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats-one-mauve-51.vercel.app/api/top-langs/?username=Hania-Shafiq&layout=compact&count_private=true&theme=radical)
+
 
 
 
