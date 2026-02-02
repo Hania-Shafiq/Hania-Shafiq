@@ -27,13 +27,15 @@
 
 ---
 
+
 ## 📊 GitHub Activity
 
 <!-- GitHub Stats -->
-![Hania's GitHub stats](https://my-github-stats.vercel.app/api?username=hania-shafiq&show_icons=true&theme=radical)
+![Hania's GitHub stats](https://github-readme-stats-jjj33dlgf-shafiqhania00-5723s-projects.vercel.app/api?username=hania-shafiq&show_icons=true&count_private=true&theme=radical)
 
 <!-- Top Languages -->
-![Top Languages](https://my-github-stats.vercel.app/api/top-langs/?username=hania-shafiq&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-jjj33dlgf-shafiqhania00-5723s-projects.vercel.app/api/top-langs/?username=hania-shafiq&layout=compact&count_private=true&theme=radical)
+
 
 
 
